@@ -1,0 +1,5 @@
+{
+  "name": "Market Breadth Analyzer",
+  "description": "A financial dashboard visualizing Market Breadth (% Stocks > MA) synchronized with VNINDEX, featuring customizable data filters.",
+  "requestFramePermissions": []
+}
